@@ -1,0 +1,23 @@
+name: Core
+version: '${project.version}'
+main: no.sahin.gui.Main
+api-version: 1.19
+authors: [ c0rnell_ & aleols1 ]
+
+commands:
+  gamemode:
+    description: Gamemode selector
+    aliases: gm
+    usage: /<command>
+  heal:
+  feed:
+  spawn:
+  setspawn:
+  fly:
+  vanish:
+  core:
+  clearchat:
+    aliases: cc
+  broadcast:
+    aliases: bc
+  chatmute:

@@ -1,0 +1,40 @@
+#CHAT PREFIX
+PREFIX: '&7[&6&lSERVER&7]'
+
+#PERMISSON MESSAGE
+  # Here you can choose the color for the permission message.
+COLORCODE: '&f'
+
+#JOIN AND LEAVE MESSAGE
+JOIN_MESSAGE: '&e<player> &rhas joined the server.'
+joinMessage: true
+LEAVE_MESSAGE: '&c<player> &rhas left the server.'
+leaveMessage: true
+
+#MOTD ON JOIN
+LINE1: '&7&m                                                           '
+LINE2: '&rWelcome to &6&lSERVER'
+LINE3: ''
+LINE4: '&rPlease vote here: &6https://www.minecraftservers.org/'
+LINE5: '&rSome usefull information.'
+LINE6: ''
+LINE7: '&rServer website: &6https://www.server.com/'
+LINE8: '&7&m                                                           '
+motdMessage: false
+
+#MESSAGES
+HEAL: '&rYou health has been reset.'
+FEED: '&rYou hunger has been reset.'
+SETSPAWN: '&rYou have now set new spawnpoint!'
+SPAWN: '&rYou have been teleported to spawn.'
+NONESPAWN: '&rThere is none spawnpoint created.'
+
+#GAMEMODE
+SURVIVAL: '&rYour gamemode has been set to: &e&lSURVIVAL'
+CREATIVE: '&rYour gamemode has been set to: &e&lCREATIVE'
+ADVENTURE: '&rYour gamemode has been set to: &e&lADVENTURE'
+SPECTATOR: '&rYour gamemode has been set to: &e&lSPECTATOR'
+FLY_ENABLE: '&rYou have now &e&lENABLED &rfly mode.'
+FLY_DISABLE: '&rYou have now &e&lDISABLED &rfly mode.'
+VANISH_ENABLE: '&rYou have now §e§lENABLED§r invisible mode.'
+VANISH_DISABLE: '&rYou have now §e§lDISABLED§r invisible mode.'
